@@ -10,7 +10,7 @@
 
 🌟 Let's harness the power of data together! 
 
-# Let's Connect:
+# Let's Connect!
 
 <a href="https://www.linkedin.com/in/vaidehi-parikh/"><img src="https://i.imgur.com/BeTaSqi.png" alt="LinkedIn" width="36px" height="36px"></a>
 <a href="vaidehiparikh31@gmail.com"><img src="https://i.imgur.com/6EyYFZb.png" alt="Email" width="36px" height="36px"></a>
